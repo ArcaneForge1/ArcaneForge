@@ -7,9 +7,9 @@
         "admob_banner": "000000",
         "admob_inter": "000000",
         "admob_native": "000000",
-        "facebook_banner": "000000",
-        "facebook_inter": "000000",
-        "facebook_native": "000000",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "intersitial_click_activites": 6,
         "intersitial_click_list": 6
 
